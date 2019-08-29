@@ -11,8 +11,8 @@ meinerseits nicht mehr erforderlich ist.
 
 Profil-Varianten:
 
+ * [Auszug: Linux-Embedded Experte](embedded/profil-embedded.pdf)
  * [vollständige Langversion - ca. 50 Seiten](full/profil-full.pdf)
- * Auszug: Linux-Embedded
 
 [EN]
 
